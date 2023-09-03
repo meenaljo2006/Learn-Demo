@@ -1,4 +1,4 @@
 # Learn-Demo
 This is my first git repository.
 <br>
-Author - Meenal Joshi
+Author - Meenal Joshi (SRM)
